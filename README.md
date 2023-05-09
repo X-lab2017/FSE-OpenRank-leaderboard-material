@@ -6,4 +6,4 @@ This repo contains the supplementary material for OpenRank leaderboard analysis.
 - Folder [data](data) contains all the data needed for the analysis.
     - Project metrics data and control data are from [OpenDigger](https://github.com/X-lab2017/open-digger).
     - Survey result data is from our questionnaire.
-- File [provement](provement.pdf) contains the convergence provement of OpenRank algorithm.
+- File [openrank_convergence_proof.pdf](openrank_convergence_proof.pdf) contains the convergence proof of OpenRank algorithm.
